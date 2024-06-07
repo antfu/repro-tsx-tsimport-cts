@@ -1,0 +1,12 @@
+{
+  "name": "node-starter",
+  "type": "module",
+  "version": "0.0.0",
+  "scripts": {
+    "start": "node start1.mjs",
+    "start2": "node start2.mjs"
+  },
+  "dependencies": {
+    "tsx": "^4.13.0"
+  }
+}
